@@ -10,4 +10,4 @@ visualized the earthquakes events in the past 7 days in global area.
 - highlighted the earthquakes with colored circles based on its magnitude. 
 - Determined the radius based on how serious the earthquakes is
 
-!()[Mapping_Earthquakes/1.png]
+![Mapping_Earthquakes/1.png]()
